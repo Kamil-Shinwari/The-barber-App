@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "332228672265",
+    "project_id": "salonap-f8ad5",
+    "storage_bucket": "salonap-f8ad5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332228672265:android:c9c914c95426116a6d71d8",
+        "android_client_info": {
+          "package_name": "com.example.thebarber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332228672265-v4q28hn6jdin29ka3603fhqha0og5g5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thebarber",
+            "certificate_hash": "7254b5f655d766a47538a6acfbe70cff564046af"
+          }
+        },
+        {
+          "client_id": "332228672265-msosir11516nb5bl4jj8hectk3somilm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsT1sGt7Zho-aLCBpEYTlSFvedhQqZAjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332228672265-msosir11516nb5bl4jj8hectk3somilm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
